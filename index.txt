@@ -8,5 +8,5 @@ modif from fmihel 6
 modif from mod2
 modif from mod3
 
-modif as mod4
-modif as mod5
+modif as node 3
+modif as mod3
