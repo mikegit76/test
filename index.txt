@@ -22,3 +22,5 @@ add branch mod2
 writing doc
 
 modify mod1 other
+
+ne wreadme struct!
