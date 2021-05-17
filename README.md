@@ -1,7 +1,5 @@
-is testing git project
+## Is testing project
+### list of modification
+1) start 
+2) add modif from mike #1
 
-dev fixing
-add branch mod1
-add branch mod2
-
-add modif from mike #1
