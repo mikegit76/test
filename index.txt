@@ -23,4 +23,6 @@ writing doc
 
 modify mod1 other
 
-ne wreadme struct!
+add modig from mike #1
+new readme struct!
+
