@@ -22,3 +22,4 @@ add branch mod2
 writing doc
 
 modify mod1 other
+add modig from mike #1
